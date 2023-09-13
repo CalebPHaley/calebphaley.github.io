@@ -1,8 +1,4 @@
-# The Hacker theme
-
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-hacker.svg)](https://badge.fury.io/rb/jekyll-theme-hacker)
-
-*Hacker is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/hacker), or even [use it today](#usage).*
+# Caleb Haley
 
 ![Thumbnail of Hacker](thumbnail.png)
 
@@ -28,19 +24,11 @@ To use the Hacker theme:
 
 ### Configuration variables
 
-Hacker will respect the following variables, if set in your site's `_config.yml`:
-
 ```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: Caleb's Portfolio
+description: Caleb's portfolio to display various projects and examples
 ```
 
-Additionally, you may choose to set the following optional variables:
-
-```yml
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
-```
 
 ### Stylesheet
 
