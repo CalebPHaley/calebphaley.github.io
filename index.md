@@ -1,6 +1,12 @@
-# Header 1
+## About Me
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Driven, innovative, tech-savvy individual with a proven ability to accel in a fast-paced environment. Demonstrates the ability to learn and adapt quickly. Seeks to deliver consistent, high-quality software. Strong sense of ownership and ready for the next challenge.
+
+I have a professional background in Customer Service seeking to deliver the best solutions to customers and clients to ensure they come back for repeat business. I supervise and manage the back-end of the business which consists of managing various different deadlines, with the primary goal of ensuring our customers have to products they need to get their projects done.  I want to translate this experience to continue delivering high quality solutions to clients, in a new industry.  
+
+My Bachelors is in Computer Science with a concentration in Software Engineering. Much of my time spent throughout the degree was spent using Java in combination with various other technologies.  This covered things such as Maven, JUnit, Json, Hibernate and more.
+
+Near the end of the program, we were introduced to data mining using Python which is where data engineering began to grow on me.  I had to opportunity to study Artifical Intelligence and Embedded Systems in a term which solidified the interest in data science. This was a lot of work with databases and utilized technologies such as NumPy, MATLAB, MongoDB, Plotly, MySQL to name a few.
 
 ## Header 2
 
